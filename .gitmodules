@@ -1,0 +1,3 @@
+[submodule "MoJSWebsite"]
+	path = MoJSWebsite
+	url = https://github.com/momomodotcom/MoJSWebsite.git
